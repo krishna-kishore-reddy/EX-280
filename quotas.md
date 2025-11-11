@@ -1,5 +1,3 @@
----
-
 ## 🧩 1. Project Quotas
 
 ### 🔹 Concept
